@@ -1,4 +1,4 @@
-# $OpenBSD: Makefile,v 1.1.1.1 2014/01/18 09:27:15 jasper Exp $
+# $OpenBSD$
 
 COMMENT =		unicode normalization form support library
 
@@ -8,7 +8,7 @@ HOMEPAGE =		https://github.com/knu/ruby-unf
 
 CATEGORIES =		textproc
 
-# MIT
+# 2 clause BSD
 PERMIT_PACKAGE_CDROM =	Yes
 
 MODULES =		lang/ruby
